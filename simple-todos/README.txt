@@ -1,9 +1,13 @@
+
+
 What to run in the terminal
 
 meteor create simple-todo
 cd meteor
 meteor
 
+//Upon gitclone
+npm install --save babel
 
 
 //Database
